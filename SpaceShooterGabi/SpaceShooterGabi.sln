@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceShooterGabi", "SpaceShooterGabi\SpaceShooterGabi.csproj", "{16D721AB-E406-48FF-9A6F-9EBBA30E7D6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D721AB-E406-48FF-9A6F-9EBBA30E7D6A}.Debug|x86.ActiveCfg = Debug|x86
+		{16D721AB-E406-48FF-9A6F-9EBBA30E7D6A}.Debug|x86.Build.0 = Debug|x86
+		{16D721AB-E406-48FF-9A6F-9EBBA30E7D6A}.Release|x86.ActiveCfg = Release|x86
+		{16D721AB-E406-48FF-9A6F-9EBBA30E7D6A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80AC4E4-5253-452F-8D1D-158CCAE4544C}
+	EndGlobalSection
+EndGlobal
